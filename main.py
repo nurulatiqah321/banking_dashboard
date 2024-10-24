@@ -1,16 +1,3 @@
-# import streamlit as st
-
-# st.set_page_config(
-#     page_title="Group assesment"
-# )
-
-# st.header("Banking Data Details")
-# st.sidebar.write("main page")
-
-# import pandas as pd
-# df = pd.read_csv('banking.csv')
-# st.dataframe(df)
-
 import streamlit as st
 import pandas as pd
 import plotly.express as px
